@@ -36,4 +36,4 @@ If you want to detect on input/ folder
 python image.py
 ```
 
-## The code is still done yet, but the parser already working
+## The code is still not done yet, but the parser already working
